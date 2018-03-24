@@ -29,7 +29,6 @@ Pull into a DataFrame the tweet's source acount, its text, its date, and its com
 Export the data in the DataFrame into a CSV file.
 Save PNG images for each plot.
 
-
 ### As final considerations:
 
 
@@ -37,3 +36,10 @@ Use the Matplotlib and Seaborn libraries.
 Include a written description of three observable trends based on the data. 
 Include proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
 Include an exported markdown version of your Notebook called  README.md in your GitHub repository.
+
+_______________________________________________________________________________________________________________________________
+#Tweet Polarity Observations:
+1) A majority of tweets in regards to news is negative
+2) The NY Times has the most neutral tweets
+3) There was the most negative news about 80 tweets ago
+
